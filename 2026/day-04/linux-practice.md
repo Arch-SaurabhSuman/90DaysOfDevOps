@@ -17,8 +17,10 @@ Logging and Troubleshooting:
 By running these commands, I can effectively monitor the health of the system and quickly identify any failing components or resource bottlenecks.
 
 
+## Hands-on Screenshot
+![Process & Services practice Screenshot](day4-practice.png)
 
-## 3. Basic Troubleshooting Flow
+##  Basic Troubleshooting Flow
 When a service isn't working as expected, I follow this standard flow to identify and fix the issue.
 
 **Scenario:** A service (e.g., Nginx) is failing to start.
@@ -38,5 +40,3 @@ When a service isn't working as expected, I follow this standard flow to identif
 **Step 4: Restart and Verify**
 `systemctl restart nginx && systemctl status nginx` 
 *Purpose: To apply fixes and confirm the service is back online.*
-
-![Process & Services practice Screenshot](day4-practice.png)
