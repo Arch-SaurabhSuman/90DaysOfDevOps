@@ -52,3 +52,13 @@ scp -i "day08-key.pem" ubuntu@<PUBLIC-IP>:~/nginx-logs.txt ./nginx-logs.txt
 > Screenshot: `error and access log file into .txt files`
 
  ![error files](Images/day8-4.png)
+
+#### what I have Learnt
+
+On Day 8 of the 90 Days of DevOps challenge, I focused on `Cloud Deployment and Networking basics`.
+
+I learned about **SSH into a cloud VM**, setting up an environment, and deploying a static site.
+
+This included practical steps like **managing remote connections** and understanding how web services like Nginx are hosted on a public IP. 
+
+This day was crucial for `bridging the gap between *local Linux management* and *remote cloud infrastructure*.`
