@@ -1,7 +1,7 @@
 # DOCUMENTATION
 
 ## Task `1 to 4`
-![file-prem](day10.png)
+![file-prem](Images/day10.png)
 
 ## Task 5
  1. Writing in read-only : permission denied to `devops.txt`
